@@ -1,0 +1,31 @@
+{
+  "configurations" : [
+    {
+      "id" : "13AC340D-7279-4CAB-9BB7-D8B90E138035",
+      "name" : "Configuration 1",
+      "options" : {
+
+      }
+    }
+  ],
+  "defaultOptions" : {
+
+  },
+  "testTargets" : [
+    {
+      "target" : {
+        "containerPath" : "container:..\/thirds\/AppCommon\/AppCommon.xcodeproj",
+        "identifier" : "BB34BFE42AB8D38B00C61923",
+        "name" : "AppCommonTests"
+      }
+    },
+    {
+      "target" : {
+        "containerPath" : "container:TraditionalReader.xcodeproj",
+        "identifier" : "BB34BD362AB838ED00C61923",
+        "name" : "TraditionalReaderTests"
+      }
+    }
+  ],
+  "version" : 1
+}

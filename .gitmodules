@@ -1,0 +1,6 @@
+[submodule "src/thirds/wcdb"]
+	path = src/thirds/wcdb
+	url = https://github.com/Tencent/wcdb.git
+[submodule "src/thirds/zstd"]
+	path = src/thirds/zstd
+	url = https://github.com/facebook/zstd.git
